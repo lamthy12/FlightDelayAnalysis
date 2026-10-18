@@ -41,7 +41,7 @@ My recommendations focus on how airline companies could use the model in daily o
 
 ## Project Presentation
 
-[View the project presentation on Google Slides](https://docs.google.com/presentation/d/1qU1JsI16oOn5x3AjfHUJsuLUICSV2_Kz/edit?slide=id.p11#slide=id.p11)
+Click here to view my project presentation: (https://docs.google.com/presentation/d/1qU1JsI16oOn5x3AjfHUJsuLUICSV2_Kz/edit?slide=id.p11#slide=id.p11)
 
 ## 5. What I Learned
 
