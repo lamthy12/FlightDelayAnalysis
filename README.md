@@ -27,15 +27,16 @@ My recommendations focus on how airline companies could use the model in daily o
 
 ## 4. Model Results
 
-### Model Performance
-
-![Model performance and confusion matrix](images/model-performance.png)
-
 ### Model Workflow in Altair AI Studio
 
 ![Data preparation and logistic regression workflow in Altair AI Studio](images/model-workflow.png)
 
 ### Logistic Regression Results
+
+### Model Performance
+
+![Model performance and confusion matrix](images/model-performance.png)
+
 
 ![Logistic regression coefficients, standard errors, z-values, and p-values](images/regression-results.png)
 
