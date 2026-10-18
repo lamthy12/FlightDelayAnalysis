@@ -14,8 +14,8 @@ I developed business process recommendations and a management plan for applying 
 
 - Suggested integrating model predictions into a scheduling dashboard through APIs or a decision support system (DSS), allowing teams to access results without interpreting complex model outputs.
 - Recommended collaboration between operations, revenue management, and customer service teams to support departure scheduling decisions and passenger updates.
-- Proposed performance metrics and feedback mechanisms to address departmental concerns about pricing, technical integration, implementation costs, and changes to existing workflows.
-- Identified potential business benefits and proposed tracking on-time performance (OTP) to evaluate whether the model could support more reliable flight operations.
+-
+-
 
 ## 3. Project Description
 
@@ -45,10 +45,6 @@ My recommendations focus on how airline companies could use the model in daily o
 
 ## 5. What I Learned
 
-Through this project, I was able to explore predictive analytics and learn how to use a regression model to inform business decisions in airline operations. I also gained a better understanding of how practical, data-driven solutions can address real problems across different departments.
-
-Developing implementation recommendations helped me connect model outputs to operational needs, including scheduling decisions, cross-department collaboration, and passenger communication. I learned that a model's value depends not only on its predictions, but also on how clearly its results are communicated and how effectively they can be integrated into daily workflows.
-
-Our main goal was to use delay predictions to support better departure scheduling, reduce delays, and improve the customer experience. This project helped me understand how predictive analytics could contribute to overall airline performance, while reinforcing the importance of evaluating model limitations and monitoring results before relying on it for operational decisions.
+Throughout this project, 
 
 
