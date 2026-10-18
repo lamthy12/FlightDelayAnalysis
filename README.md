@@ -1,6 +1,6 @@
 # FlightDelayAnalysis
 
-**Course Team Project | BANA 270: Intro to Business Analytics and AI**<br>
+**Course Team Project | <br>BANA 270: Intro to Business Analytics and AI**<br><br>
 **March – June 2025**<br>
 **Tools I used:** Altair AI Studio, PowerPoint
 
