@@ -22,7 +22,7 @@ I developed business process recommendations and a management plan for applying 
 My recommendations focus on how airline companies could use the model in daily operations:
 
 - **Forecast and report delay risks:** Use APIs to connect model results to a dashboard or DSS database so teams can view predictions in one place.
-- **Improve teamwork and increase flexibility
+- **Improve teamwork and increase flexibility**
 - **Track potential business value:** Provide customer service where clients are less likely to face problems (e.g automatic notifications in phone, or airline app: "Your Delay Risk Score" for upcoming flights). Also, monitor on-time performance, and operating costs to ensure whether the tool helps the airline.
 
 ## 4. Model Results
@@ -45,4 +45,7 @@ Click here to view my project presentation: (https://docs.google.com/presentatio
 
 ## 5. What I Learned
 
-Throughout this project, I learned how data can be turned into useful business insights, especially for airline operations. I also understand how regression models make forecast and predict many potential business outcomes, 
+Throughout this project, I learned how data can be turned into useful business insights, especially for airline operations. I also enhance my skills to use regression models making forecast and predict many potential business outcomes, and support airline companies in achieving their goals without adding risk. We analyzed flight delay risk to better understand the probability that passengers or clients might experience delays. This helped me understand how important is it to create a predictive tool, while it could improve better planning and help airlines prepare issues beforehand.
+
+## 6. Conclusion
+In this Business Analytics Project, the main goal is to bring a practical and data-driven solution into real-world problem in airline industry. Beyond building a model, our team considered how airlines could use its results to predict optimal departure time, coordinate departments, reduce delays and improve customer experience which are all necessary for both parties to improve overall performance.  
