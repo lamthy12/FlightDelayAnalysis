@@ -12,10 +12,10 @@ My team's Flight Project provides a clear vision of delay classification by usin
 
 I developed business process recommendations and a management plan for applying the team's predictive model to airline operations.
 
-- **Suggested real-time integrating model predictions into scheduling dashboard (e.g API, DSS), decision support systems will help teams handle large data and access results without interpreting complex data.
-- **Recommend collaboration between operations, revenue management and customer service teams to optimize departure scheduling decisions and passenger updates.
-- **Proposed performance metrics and feedback mechanisms to help solving departmental concerns about pricing, technical integration, implementation costs and change current workflows.
-- **Improved the business value and on-time performance (OTP) to secure flight patterns.
+- Suggested real-time integrating model predictions into scheduling dashboard (e.g API, DSS), decision support systems will help teams handle large data and access results without interpreting complex data.
+- Recommend collaboration between operations, revenue management and customer service teams to optimize departure scheduling decisions and passenger updates.
+- Proposed performance metrics and feedback mechanisms to help solving departmental concerns about pricing, technical integration, implementation costs and change current workflows.
+- Improved the business value and on-time performance (OTP) to secure flight patterns.
 
 ## 3. Project Description
 
