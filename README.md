@@ -1,4 +1,4 @@
-# FlightDelayAnalysis _ Case Study
+# FlightDelayAnalysis ✈️ _ Case Study
 
 **Course Team Project | <br>BANA 270: Intro to Business Analytics and AI**<br><br>
 **March – June 2025**<br>
